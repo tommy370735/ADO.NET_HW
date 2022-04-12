@@ -182,7 +182,7 @@ namespace ADO.NET作業2_VS複習
         {
             int X_十進位 = 100;
             int X_二進位;
-            string Y_問號 = string.Empty;
+            string Y_問號 = "";
             while (X_十進位 > 0)
             {
                 X_二進位 = X_十進位 % 2;

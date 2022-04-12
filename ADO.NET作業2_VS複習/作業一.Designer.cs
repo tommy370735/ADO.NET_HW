@@ -76,7 +76,7 @@ namespace ADO.NET作業2_VS複習
             this.button2.Location = new System.Drawing.Point(30, 91);
             this.button2.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(96, 23);
+            this.button2.Size = new System.Drawing.Size(126, 23);
             this.button2.TabIndex = 101;
             this.button2.Text = "3 個數的最大值";
             this.button2.UseVisualStyleBackColor = true;
@@ -87,7 +87,7 @@ namespace ADO.NET作業2_VS複習
             this.button1.Location = new System.Drawing.Point(30, 65);
             this.button1.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(96, 21);
+            this.button1.Size = new System.Drawing.Size(126, 21);
             this.button1.TabIndex = 100;
             this.button1.Text = "單、雙";
             this.button1.UseVisualStyleBackColor = true;
@@ -225,10 +225,10 @@ namespace ADO.NET作業2_VS複習
             // 
             // button15
             // 
-            this.button15.Location = new System.Drawing.Point(660, 221);
+            this.button15.Location = new System.Drawing.Point(437, 156);
             this.button15.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button15.Name = "button15";
-            this.button15.Size = new System.Drawing.Size(117, 23);
+            this.button15.Size = new System.Drawing.Size(200, 27);
             this.button15.TabIndex = 116;
             this.button15.Text = "100 的 二進位是多少 ?";
             this.button15.UseVisualStyleBackColor = true;
@@ -236,10 +236,10 @@ namespace ADO.NET作業2_VS複習
             // 
             // button9
             // 
-            this.button9.Location = new System.Drawing.Point(660, 184);
+            this.button9.Location = new System.Drawing.Point(660, 156);
             this.button9.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button9.Name = "button9";
-            this.button9.Size = new System.Drawing.Size(117, 23);
+            this.button9.Size = new System.Drawing.Size(128, 27);
             this.button9.TabIndex = 115;
             this.button9.Text = "九九乘法表";
             this.button9.UseVisualStyleBackColor = true;
@@ -247,10 +247,10 @@ namespace ADO.NET作業2_VS複習
             // 
             // button8
             // 
-            this.button8.Location = new System.Drawing.Point(642, 112);
+            this.button8.Location = new System.Drawing.Point(660, 103);
             this.button8.Margin = new System.Windows.Forms.Padding(2);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(147, 30);
+            this.button8.Size = new System.Drawing.Size(128, 39);
             this.button8.TabIndex = 122;
             this.button8.Text = "int[] 樂透 6個號碼不重複";
             this.button8.UseVisualStyleBackColor = true;
@@ -258,7 +258,7 @@ namespace ADO.NET作業2_VS複習
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(437, 108);
+            this.button5.Location = new System.Drawing.Point(437, 103);
             this.button5.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button5.Name = "button5";
             this.button5.Size = new System.Drawing.Size(200, 39);
@@ -269,10 +269,10 @@ namespace ADO.NET作業2_VS複習
             // 
             // button4
             // 
-            this.button4.Location = new System.Drawing.Point(437, 71);
+            this.button4.Location = new System.Drawing.Point(437, 65);
             this.button4.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button4.Name = "button4";
-            this.button4.Size = new System.Drawing.Size(200, 28);
+            this.button4.Size = new System.Drawing.Size(200, 27);
             this.button4.TabIndex = 120;
             this.button4.Text = "string[] 最長名字 ?";
             this.button4.UseVisualStyleBackColor = true;
@@ -280,7 +280,7 @@ namespace ADO.NET作業2_VS複習
             // 
             // button3
             // 
-            this.button3.Location = new System.Drawing.Point(437, 24);
+            this.button3.Location = new System.Drawing.Point(437, 27);
             this.button3.Margin = new System.Windows.Forms.Padding(2, 1, 2, 1);
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(200, 28);
@@ -291,9 +291,9 @@ namespace ADO.NET作業2_VS複習
             // 
             // button7
             // 
-            this.button7.Location = new System.Drawing.Point(660, 71);
+            this.button7.Location = new System.Drawing.Point(660, 65);
             this.button7.Name = "button7";
-            this.button7.Size = new System.Drawing.Size(128, 28);
+            this.button7.Size = new System.Drawing.Size(128, 27);
             this.button7.TabIndex = 118;
             this.button7.Text = " MAX()   / Min ( int[] )";
             this.button7.UseVisualStyleBackColor = true;
@@ -301,9 +301,9 @@ namespace ADO.NET作業2_VS複習
             // 
             // button6
             // 
-            this.button6.Location = new System.Drawing.Point(660, 24);
+            this.button6.Location = new System.Drawing.Point(660, 27);
             this.button6.Name = "button6";
-            this.button6.Size = new System.Drawing.Size(128, 28);
+            this.button6.Size = new System.Drawing.Size(128, 27);
             this.button6.TabIndex = 117;
             this.button6.Text = "Max (params int[] )";
             this.button6.UseVisualStyleBackColor = true;
